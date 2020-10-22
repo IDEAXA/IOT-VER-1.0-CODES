@@ -7,7 +7,7 @@ void setup()
   // Print a message to the LCD.
   lcd.backlight();
   lcd.setCursor(0,0); // set cursor to 1st row
-  lcd.print("Hello, LCD12C!"); // print data in 1st row
+  lcd.print("Hello, LCD12C!"); // print      data in 1st row
   lcd.setCursor(2,1); // set cursor to 2nd row
   lcd.print("IDEAXA");// print data in 2nd row
   
